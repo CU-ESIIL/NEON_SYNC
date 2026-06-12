@@ -1,6 +1,6 @@
 # Working Group Template
 
-This repository is a template for ESIIL Working Groups.
+This repository is a template for ESIIL Working Groups NEON-SYNC that is currently tested at CyVerse
 
 This template is designed as one connected system:
 
