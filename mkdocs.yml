@@ -1,10 +1,10 @@
 site_name: 'NEON_SYNC'
-site_description: 'Repository and website template for ESIIL working groups'
-site_author: Ty Tuff
+site_description: 'Repository and website NEON SYNC working group'
+site_author: Tong Qiu, Rongfei Su, Lucas Mansfield
 site_url: https://cu-esiil.github.io/NEON_SYNC
 
 # Repository
-repo_name: Working_group_OASIS
+repo_name: NEON_SYNC
 repo_url: https://github.com/CU-ESIIL/NEON_SYNC
 # The edit URI points MkDocs Material at the docs/ source so page edit links open in GitHub edit mode.
 edit_uri: edit/main/docs/
