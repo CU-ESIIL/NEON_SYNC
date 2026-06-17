@@ -1,35 +1,16 @@
-# Home
-This is a template.
-## Working Group Title
-
-Working Group Title
-
-This working group runs as a single system: a GitHub repository where environmental data science is organized, analyzed, and versioned, and a public website where results are explained and shared with the community.
-
-As the working group progresses, the repository becomes the reproducible record of the science, and the website becomes the public report.
+This repository serves as the home base for the NEON-SYNC working group! It contains information about the project and members, alongside the code used in the project.
 
 [Edit this homepage in GitHub](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/docs/index.md){ .md-button .md-button--secondary }
 [Open the GitHub repository](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
 
-![Placeholder image for the homepage overview][slot-hero]{ .homepage-hero }
 
---8<-- "_generated/slot_notes/hero.md"
+## Project Abstract
 
-## Working Group Abstract
+Populations of different taxa often rise and fall together through time—a pattern called temporal synchrony—but sometimes they move in opposite directions or not at all. These rhythms can either steady ecosystems or make them more vulnerable to sudden change. Using NEON, a monitoring network which tracks many kinds of organisms across U.S. ecosystems, we will measure how strongly pairs of groups (for example, insects and the birds that eat them) move together, and how those patterns depend on species’ traits (like how fast they reproduce or what they eat) and local conditions (climate extremes, productivity, and disturbance such as fire or floods). We will generate tools that provide early warning and practical guidance for conservation—helping managers prioritize vulnerable food-web links and focus monitoring where coordinated declines are most likely under global change.
 
-Add an overview of who your group is, why you have come together and what questions you are answering. This is very similar to your working group description on the esiil website.
+![NEON-Sync Abstract](assets/images/slots/hero/neon_sync_figure.png)
 
-## Start Here
 
-1. Replace the title and summary with the working group question, the community or scientific need, and the main outputs the group expects to produce.
-2. Add or link the datasets, working documents, and references your group will use.
-3. Run or adapt at least one analysis workflow and record decisions in the repository.
-4. Commit figures, tables, notes, and summaries so the work is versioned and reproducible.
-5. Use the website to share progress, methods, and results with collaborators and community audiences.
-
-[Plan the work](work-plan.md){ .md-button }
-[Document data and resources](how-this-group-works.md#data){ .md-button .md-button--secondary }
-[Set community expectations](community-care.md){ .md-button .md-button--secondary }
 
 ## Working Group Landmarks
 
@@ -120,17 +101,20 @@ Working Phase: Preparing for Meeting 1
 
 ## Team Members
 
-Replace this table with names, roles, institutions, and responsibilities so new collaborators know who is doing what.
 
-Related landmark: WG-A People and roles.
-
-![Placeholder image representing collaboration and group identity][slot-group-photo]{ .section-image }
-
---8<-- "_generated/slot_notes/group-photo.md"
-
-| Name | Role | Institution | Responsibilities |
+| Name | Institution | Role | Expertise |
 | --- | --- | --- | --- |
-| Name | Role | Institution | Responsibilities |
-| Name | Role | Institution | Responsibilities |
-
---8<-- "_generated/image_slots.md"
+| Tong Qiu | Duke University | PI | community ecology, remote sensing |
+| Allen Hurlbert | University of North Carolina | Co-PI | macroecology, birds, insects |
+| Preston Pennington | Washington University in St. Louis | Member | community ecology |
+| John Grady | St. Mary's College of Maryland | Co-PI | macroecology, theory, spatial diversity |
+| Dave Barnett | NEON | Member | ecology, data science |
+| Rongfei Su | Duke University | Tech lead | community ecology |
+| Phoebe Zarnetske | Michigan State University | Co-PI | community ecology, biodiversity, big data |
+| Lucas Mansfield | Michigan State University | Tech lead | community ecology, big data, computer science |
+| Sydne Record | University of Maine | Member | macroecology, community ecology |
+| Jean-Philippe Gibert | Duke University | Member | thermal ecology, community ecology, food webs |
+| Nosa Osawe | University of North Carolina | Member | ecology, data science |
+| Jianmin Wang | Purdue University | Member | remote sensing |
+| Kai Zhu | University of Michigan | Member | global change ecology |
+| Emiley Eloe-Fadrosh | Lawrence Berkeley National Laboratory | Member | metagenomics, microbiomes |
